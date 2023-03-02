@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshit Gupta
-- 👀 I’m interested in Front end Web Development and Data Science.
+- 👀 I’m interested in Front End Web Development and Data Science.
 - 📫 How to reach me ...
 reach me at harshit257gupta@gmail.com
 
